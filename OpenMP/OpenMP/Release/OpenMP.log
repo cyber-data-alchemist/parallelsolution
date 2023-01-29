@@ -1,0 +1,7 @@
+﻿  OpenMP.cpp
+c:\users\cyber\documents\github\parallelsolution\openmp\openmp\openmp.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cyber\documents\github\parallelsolution\openmp\openmp\openmp.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenMP.vcxproj -> C:\Users\cyber\Documents\GitHub\parallelsolution\OpenMP\Release\OpenMP.exe

@@ -1,0 +1,5 @@
+﻿  OpenMP.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+c:\users\cyber\documents\github\parallelsolution\openmp\openmp\openmp.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cyber\documents\github\parallelsolution\openmp\openmp\openmp.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenMP.vcxproj -> C:\Users\cyber\Documents\GitHub\parallelsolution\OpenMP\Debug\OpenMP.exe
