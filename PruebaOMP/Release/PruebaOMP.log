@@ -1,9 +1,9 @@
 ﻿  PruebaOMP.cpp
 c:\users\cyber\documents\github\parallelsolution\pruebaomp\pruebaomp.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\cyber\documents\github\parallelsolution\pruebaomp\pruebaomp.cpp(18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\cyber\documents\github\parallelsolution\pruebaomp\pruebaomp.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyber\documents\github\parallelsolution\pruebaomp\pruebaomp.cpp(19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cyber\documents\github\parallelsolution\pruebaomp\pruebaomp.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating code
-  0 of 12 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  1 of 13 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code

@@ -1,5 +1,6 @@
 #include <iostream>SS
 #include <omp.h>
+#include<cmath>
 #define N 10000
 #define chunk 10
 #define mostrar 20
@@ -15,8 +16,8 @@ int main()
 
 	for (i = 0; i < N; i++)
 	{
-		a[i] = i * 10;
-		b[i] = (i + 3) * 3.7;
+		a[i] = i * 1000;
+		b[i] = pow(2, i);
 	}
 	int pedazos = chunk;
 
