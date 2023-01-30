@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>SS
 #include <omp.h>
 #define N 10000
 #define chunk 10
@@ -20,7 +20,7 @@ int main()
 	}
 	int pedazos = chunk;
 
-#pragma omp parallel for shared(a,b,c,pedazos) private(i) schedule(static, pedazos)
+	#pragma omp parallel for shared(a,b,c,pedazos) private(i) schedule(static, pedazos)
 
 	for (i = 0; i < N; i++)
 		c[i] = a[i] + b[i];
